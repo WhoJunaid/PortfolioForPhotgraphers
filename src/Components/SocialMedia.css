@@ -1,0 +1,15 @@
+.body-socialmedia{
+    height: 50vmin;
+    margin: 4vmin;
+    border: 3px solid grey;
+    border-radius: 2rem;
+    margin-top: 7vh;
+    overflow: hidden;
+}
+.heading-socialmedia{
+    color: white;
+    margin: 10px;
+    margin-left: 20px;
+    font-size: larger;
+   
+}

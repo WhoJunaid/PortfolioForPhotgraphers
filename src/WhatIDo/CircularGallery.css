@@ -1,0 +1,14 @@
+.circular-gallery {
+    width: 90vw;
+    max-width: 100vw;
+    max-height: 750px;
+    height: 90vw;
+    overflow: hidden;
+    cursor: grab;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  .circular-gallery:active {
+    cursor: grabbing;
+  }

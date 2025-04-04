@@ -1,0 +1,20 @@
+.scroll-reveal {
+    margin: 20px 0;
+     /* width: ; */
+     /* z-index: 999; */
+     border-radius: 5rem;
+  }
+  
+  .scroll-reveal-text {
+    font-size: clamp(.8rem, 2vw, 1.5rem);
+    line-height: 1.5;
+    font-weight: 400;
+    color: white;
+   
+    margin-left: 25px;
+    /* margin-top: 10px; */
+  }
+  
+  .word {
+    display: inline-block;
+  }

@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Poppins:wght@400;700&display=swap');
+
+
+
+.text-name{
+    font-size: 10vmin;
+    width: 45%;
+    font-family: 'poppins';
+    color: white;
+    margin-left: 10vw;
+}

@@ -1,0 +1,18 @@
+.name{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: white;
+    
+    /* width: 10vw; */
+    /* margin-left: 34vmin; */
+    /* width: 90vw; */
+    /* margin-left: 35vw; */
+    padding-bottom: 200px;
+    /* margin-right: 20vw; */
+}
+
+.link{
+color: white;
+font-weight: 500;
+}

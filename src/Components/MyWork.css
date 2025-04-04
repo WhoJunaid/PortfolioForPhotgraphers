@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Poppins:wght@400;700&display=swap');
+
+
+.mywork{
+    height: 60vmin;
+    margin: 4vmin;
+    border: 3px solid grey;
+    border-radius: 2rem;
+    margin-top: 7vh;
+    overflow: hidden;
+}
+.heading{
+    color: white;
+    margin: 10px;
+    margin-left: 20px;
+    font-size: larger;
+    font-family: "poppins";
+}
+.custom-bounceCards{
+    width: 50vw;
+    margin-left: 40vmin;
+    margin-top: 2vh;
+}
