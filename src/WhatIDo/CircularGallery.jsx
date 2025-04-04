@@ -331,9 +331,9 @@ class App {
   createMedias(items, bend = 1, textColor, borderRadius, font) {
     const defaultItems = [
       { image: `https://res.cloudinary.com/dy3lhapgx/image/upload/v1743666242/Screenshot_2025-04-03-11-29-02-71_f9ee0578fe1cc94de7482bd41accb329_roc8mt.jpg`, text: 'Song Shoots' },
-      { image: `https://res.cloudinary.com/dy3lhapgx/image/upload/v1743666230/1707927672126_gpfwwf.jpg`, text: 'Professional Shoots' },
+      { image: `https://res.cloudinary.com/dy3lhapgx/image/upload/v1743666244/1707918236750_eebgsr.jpg`, text: 'Professional Shoots' },
       { image: `https://res.cloudinary.com/dy3lhapgx/image/upload/v1743666234/MyImage-1740574732-01_o58ei0.jpg`, text: 'Marriage Shoots' },
-      { image: `https://res.cloudinary.com/dy3lhapgx/image/upload/v1743665971/1700224205416_tcrhzn.jpg`, text: 'Nature Photography' },
+      { image: `https://res-console.cloudinary.com/dy3lhapgx/thumbnails/v1/image/upload/v1743665971/MTcwMDIyNDIwNTQxNl90Y3Joem4=/drilldown`, text: 'Nature Photography' },
       { image: `https://res.cloudinary.com/dy3lhapgx/image/upload/v1743666238/DSC05325_xattpt.jpg`, text: 'Documenting Life' },
       { image: `https://res.cloudinary.com/dy3lhapgx/image/upload/v1743667415/IMG_3726_ovwz5j.jpg`, text: 'Commercials' }
     ]
