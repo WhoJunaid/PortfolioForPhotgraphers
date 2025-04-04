@@ -30,7 +30,7 @@ const Overview = () => {
             baseRotation={5}
             blurStrength={10}
           >
-          I've had the privilege of working with major brands like Haldiram and Lammer, collaborated with artists like Darshan Raval and Babar Mucader, and even contributed to high-level projects for the Prime Minister's Office (PMO).
+          I've had the privilege of working with major brands like Haldiram and Lammer, collaborated with artists like Darshan Raval and Babar Mudacer, and even contributed to high-level projects for the Prime Minister's Office (PMO).
      </OverviewContent>
      <OverviewContent
             baseOpacity={0}
