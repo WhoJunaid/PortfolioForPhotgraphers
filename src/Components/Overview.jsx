@@ -22,7 +22,7 @@ const Overview = () => {
             baseRotation={5}
             blurStrength={10}
           >
-           I’m Mohsin Shah, a passionate photographer and videographer. I’ve shot music videos for artists like Darshan Raval and Babar Mudacer and recently worked on a project for the Prime Minister’s Office of India. Through my lens, I bring stories to life.
+           I’m Mohsin Shah, a passionate photographer and cinematographer. I’ve shot music videos for artists like Darshan Raval and Babar Mudacer and recently worked on a project for the Prime Minister’s Office of India. Through my lens, I bring stories to life.
           </OverviewContent>
 
 
