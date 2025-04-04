@@ -22,8 +22,29 @@ const Overview = () => {
             baseRotation={5}
             blurStrength={10}
           >
-           I’m Mohsin Shah, a passionate photographer and cinematographer. I’ve shot music videos for artists like Darshan Raval and Babar Mudacer and recently worked on a project for the Prime Minister’s Office of India. Through my lens, I bring stories to life.
-          </OverviewContent>
+          Hi, I'm Mohsin Shah — a passionate photographer and cinematographer dedicated to turning moments into timeless visuals. My work blends creativity with emotion, whether I’m shooting portraits, fashion, events, or cinematic reels.
+     </OverviewContent>
+     <OverviewContent
+            baseOpacity={0}
+            enableBlur={true}
+            baseRotation={5}
+            blurStrength={10}
+          >
+          I've had the privilege of working with major brands like Haldiram and Lammer, collaborated with artists like Darshan Raval and Babar Mucader, and even contributed to high-level projects for the Prime Minister's Office (PMO).
+     </OverviewContent>
+     <OverviewContent
+            baseOpacity={0}
+            enableBlur={true}
+            baseRotation={5}
+            blurStrength={10}
+          >
+          Every frame I capture tells a story — let’s create yours next.
+     </OverviewContent>
+           
+           
+
+           
+         
 
 
 
