@@ -5,6 +5,7 @@ import { FaFacebookF } from "react-icons/fa6";
 
 
 import GlassIcons from '../SocialMedia/GlassIcons';
+import Magnet from '../SocialMedia/Magnet';
 const SocialMedia = () => {
 
     // update with your own icons and colors
@@ -22,12 +23,16 @@ const items = [
 
 
 
-<div style={{ height: '600px', position: 'relative' }}>
+<div style={{ height: '40vh', position: 'relative' }}>
   <GlassIcons items={items} className="custom-class"/>
 </div>
 
 
-
+<div className="contact">
+<Magnet padding={500} disabled={false} magnetStrength={5} onClick={()=>{window.open('https://wa.me/9149687132?text=Hi%20there!%20I%20came%20from%20your%20website')}}>
+  <p className='contact-me' >Contact Me!</p>
+</Magnet>
+</div>
     </div>
   )
 }

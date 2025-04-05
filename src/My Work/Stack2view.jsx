@@ -15,7 +15,7 @@ const Stack2view = () => {
 
 <Stack2
   randomRotation={true}
-  sensitivity={180}
+  sensitivity={120}
   sendToBackOnClick={false}
   cardDimensions={{ width: 300, height: 300 }}
   cardsData={images}
