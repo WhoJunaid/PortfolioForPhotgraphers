@@ -7,10 +7,12 @@
     overflow: visible;
     margin-left: auto;
     margin-right: auto;
+    
     /* height: 1vmin; */
   }
   
   .icon-btn {
+    cursor: pointer;
     background-color:transparent;
     border: none;
     outline: none;
