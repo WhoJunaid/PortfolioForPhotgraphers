@@ -1,7 +1,8 @@
 .body-overview{
-    height: 40vh;
+    height: 50vh;
     margin: 4vmin;
     border: 3px solid grey;
     border-radius: 2rem;
     margin-top: 7vh;
+     overflow: hidden;
 }
